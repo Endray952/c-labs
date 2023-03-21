@@ -1,0 +1,5 @@
+Also  please provide a minimal
+runable  example  and the line
+where  your  problem occurred.
+I'm  using  visual studio c++,
+and the debugger is not,
